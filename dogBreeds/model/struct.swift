@@ -9,7 +9,7 @@ import Foundation
 import SwiftyJSON
 import Kingfisher
 
-struct jsonModel : Decodable{
+struct jsonModel : Decodable {
     
     var name : String!  = " "
     var bred_for : String! = " "
